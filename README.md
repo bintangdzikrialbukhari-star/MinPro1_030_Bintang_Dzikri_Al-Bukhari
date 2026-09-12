@@ -64,8 +64,23 @@ Program ini saya buat untuk mengelola sistem penitipan barang pada loker pintar 
 3. Pilih angka nomor 4 untuk keluar dari program
 4. Selesai
 
-## Flowchart
+## Flowchart.
 
 <img width="2501" height="1557" alt="download" src="https://github.com/user-attachments/assets/60c6bee2-1852-4524-bb7d-7448dd9de72e" />
 
-ini adalah hasil dari flowchart yang saya buat sesuai dari 
+ini adalah hasil dari alur flowchart dari program Smart Locker.
+
+## Proses Program di List.
+
+### 1. Menambahkan proses data baru
+   di data ini saya telah menambahkan proses penambahan data saat di menu pilihan 1, peengguna diminta untuk menginput PIN loker untuk bisa menitipkan barang
+
+### 2. Menampilkan seluruh data
+   di data ini saya menambahkan proses menampilkan seluruh data pada menu ke 3, dimana pengguna meeminta menampilkan seluruh status dan loker yang tersedia
+
+### 3. Mengubah data yang sudah ada
+   di data in saya telah menambahkan proses mengubah data yang sudah ada, dimana pada proses ini tidak di tampilkan di output melainkan di dalam coding, mengubah data       yang awalnya "kosong" menjadi "terisi"
+
+### 4. Menghapus data
+   di data ini saya juga menamahkan proses menghapus data, dimana saat pengguna mengambil barang lalu password yang awalnya sudah terisi menjadi hilang karena proses        sebelumnya telah berhasil.
+  
