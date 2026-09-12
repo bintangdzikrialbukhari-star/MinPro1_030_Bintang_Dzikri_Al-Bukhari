@@ -26,6 +26,9 @@ Program ini saya buat untuk mengelola sistem penitipan barang pada loker pintar 
 <img width="646" height="205" alt="Screenshot 2026-09-12 171418" src="https://github.com/user-attachments/assets/f746d0d6-3bcc-41ec-b37f-9555fb92bc2c" />
 
 ### MENITIPKAN BARANG
+
+<img width="692" height="372" alt="Screenshot 2026-09-12 173222" src="https://github.com/user-attachments/assets/b2e62893-651a-497d-a1ec-f08d439a64a0" />
+
 1. Membuka file Python
 2. Run Program
 3. Masukan angka 1 jika ingin mennitipkan barang
@@ -34,6 +37,9 @@ Program ini saya buat untuk mengelola sistem penitipan barang pada loker pintar 
 6. Selesai
 
 ### MENGAMBIL BARANG
+
+<img width="647" height="292" alt="Screenshot 2026-09-12 173237" src="https://github.com/user-attachments/assets/92fed20f-d8a4-4b6e-9832-dabd4e4d9b1a" />
+
 1. Membuka file Python
 2. Run Program
 3. Masukan angka 2 jika ingin mengambil barang
@@ -41,13 +47,25 @@ Program ini saya buat untuk mengelola sistem penitipan barang pada loker pintar 
 5. Selesai
 
 ### MENGECEEK STATUS LOKER
+
+<img width="672" height="442" alt="Screenshot 2026-09-12 173250" src="https://github.com/user-attachments/assets/34319771-e4a9-4568-9721-40997b6a0727" />
+
 1. Membuka file Python
 2. Run Program
 3. Pilih angka 3  untuk mengecek status loker
 4. Selesai
 
 ### KELUAR
+
+<img width="655" height="241" alt="image" src="https://github.com/user-attachments/assets/75ecf6d4-68df-42fa-aa62-6d0d0926ddbe" />
+
 1. Membuka file Python
 2. Run Program
 3. Pilih angka nomor 4 untuk keluar dari program
 4. Selesai
+
+## Flowchart
+
+<img width="2501" height="1557" alt="download" src="https://github.com/user-attachments/assets/60c6bee2-1852-4524-bb7d-7448dd9de72e" />
+
+ini adalah hasil dari flowchart yang saya buat sesuai dari 
