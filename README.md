@@ -66,7 +66,7 @@ Program ini saya buat untuk mengelola sistem penitipan barang pada loker pintar 
 
 ## Flowchart.
 
-<img width="2501" height="1557" alt="download" src="https://github.com/user-attachments/assets/60c6bee2-1852-4524-bb7d-7448dd9de72e" />
+<img width="2501" height="1557" alt="image" src="https://github.com/user-attachments/assets/24bb5b02-4373-437f-8608-cdd1c80d11d4" />
 
 ini adalah hasil dari alur flowchart dari program Smart Locker.
 
